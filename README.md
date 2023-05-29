@@ -44,11 +44,7 @@
 
 ### Heaps
 
-<<<<<<< HEAD
 - Heaps
-=======
-- Min/Max Heap
->>>>>>> b555f01884c895c8384e041bc4fb3c8ba7e78766
 - Priority Queues
 
 ### Graphs
