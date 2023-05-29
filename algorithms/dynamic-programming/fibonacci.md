@@ -26,18 +26,4 @@ In the above implementation, `n` represents the desired length of the Fibonacci 
 
 Finally, the function returns the Fibonacci series of length `n`.
 
-To use this function and print the Fibonacci series, you can do the following:
-
-```python
-n = 10  # Desired length of the Fibonacci series
-fib_series = fibonacci_series(n)
-print(fib_series)
-```
-
-This will output the Fibonacci series of length 10:
-
-```
-[0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
-```
-
 The Fibonacci series grows exponentially, and the time complexity of generating the series is O(n), where n is the desired length of the series.
