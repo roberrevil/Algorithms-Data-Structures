@@ -44,8 +44,7 @@
 
 ### Heaps
 
-- Min-Heap
-- Max-Heap
+- Min/Max Heap
 - Priority Queues
 
 ### Graphs
