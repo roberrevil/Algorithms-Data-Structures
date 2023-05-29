@@ -93,9 +93,7 @@ def insert(root, value):
         else:
             temp = temp.right
 
-    new_node.parent
-
- = current
+    new_node.parent = current
     if not current:
         root = new_node
     elif new_node.value < current.value:
