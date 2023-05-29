@@ -57,4 +57,4 @@ After constructing the max-heap, the function performs the sorting process by ex
 
 Finally, the sorted list is returned.
 
-The time complexity of the heapsort algorithm is O(n log n), where n is the number of elements in the input list. Heap construction takes O(n) time, and extracting the maximum element and heapifying take O(log n) time, and these operations are performed n times. Heapsort has the advantage of an in-place sorting algorithm with relatively good performance.
+The time complexity of the heapsort algorithm is $O(n log n)$, where $n$ is the number of elements in the input list. Heap construction takes $O(n)$ time, and extracting the maximum element and heapifying take $O(log n)$ time, and these operations are performed $n$ times. Heapsort has the advantage of an in-place sorting algorithm with relatively good performance.

@@ -63,4 +63,4 @@ The `merge` function takes two sorted sublists (`left` and `right`) and merges t
 
 Finally, the sorted list is returned.
 
-The time complexity of the merge sort algorithm is O(n log n), where n is the number of elements in the input list. Merge sort has a better worst-case and average-case time complexity compared to quadratic time complexity sorting algorithms like bubble sort and insertion sort.
+The time complexity of the merge sort algorithm is $O(n log n)$, where $n$ is the number of elements in the input list. Merge sort has a better worst-case and average-case time complexity compared to quadratic time complexity sorting algorithms like bubble sort and insertion sort.
