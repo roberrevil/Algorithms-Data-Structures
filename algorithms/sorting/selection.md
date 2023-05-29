@@ -34,4 +34,4 @@ In the above implementation, `arr` is the input list that needs to be sorted. Th
 
 Finally, the sorted list is returned.
 
-The time complexity of the selection sort algorithm is $O(n^2)$, where $n$ is the number of elements in the input list.
+The time complexity of the selection sort algorithm is O(n^2), where n is the number of elements in the input list.

@@ -39,4 +39,4 @@ During the comparison loop, each element greater than the key is moved one posit
 
 Finally, the sorted list is returned.
 
-The time complexity of the insertion sort algorithm is $O(n^2)$, where $n$ is the number of elements in the input list. However, it has an advantage over other quadratic time complexity sorting algorithms, such as bubble sort and selection sort, as it performs well on partially sorted or small-sized lists.
+The time complexity of the insertion sort algorithm is O(n^2), where n is the number of elements in the input list. However, it has an advantage over other quadratic time complexity sorting algorithms, such as bubble sort and selection sort, as it performs well on partially sorted or small-sized lists.

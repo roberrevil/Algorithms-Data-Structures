@@ -36,4 +36,4 @@ The function then recursively applies quicksort to the `less_than` and `greater_
 
 Finally, the sorted list is returned.
 
-The time complexity of the quicksort algorithm depends on the choice of the pivot and the partitioning. On average, it has a time complexity of $O(n log n)$, where $n$ is the number of elements in the input list. However, in the worst-case scenario, when the pivot is not well-balanced and results in uneven partitions, the time complexity can be $O(n^2)$. To mitigate this, various techniques like randomizing the pivot or using the median-of-three pivot selection can be employed.
+The time complexity of the quicksort algorithm depends on the choice of the pivot and the partitioning. On average, it has a time complexity of O(n log n), where n is the number of elements in the input list. However, in the worst-case scenario, when the pivot is not well-balanced and results in uneven partitions, the time complexity can be O(n^2). To mitigate this, various techniques like randomizing the pivot or using the median-of-three pivot selection can be employed.

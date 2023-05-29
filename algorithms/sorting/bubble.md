@@ -33,4 +33,4 @@ After each pass, the largest element in the unsorted sublist moves to the end. T
 
 Finally, the sorted list is returned.
 
-The time complexity of the bubble sort algorithm is $O(n^2)$, where $n$ is the number of elements in the input list. However, it can be optimized with a flag to check if any swaps were made during a pass, allowing early termination if the list is already sorted.
+The time complexity of the bubble sort algorithm is O(n^2), where n is the number of elements in the input list. However, it can be optimized with a flag to check if any swaps were made during a pass, allowing early termination if the list is already sorted.
