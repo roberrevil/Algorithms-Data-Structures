@@ -34,7 +34,7 @@
 
 ### Linked Lists
 
-### Stacks and Queues.
+### Stacks and Queues
 
 ### Trees
 
