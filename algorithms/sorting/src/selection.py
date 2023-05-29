@@ -11,4 +11,4 @@ def selection_sort(arr):
         # Swap the minimum element with the element at index i
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
     
-    return arr
+    return arr;
