@@ -1,4 +1,4 @@
-# Selection Sort
+# Selection Sort Algorithm
 
 Selection sort is a simple comparison-based sorting algorithm. It works by dividing the input into two parts: the sorted sublist and the unsorted sublist. The algorithm repeatedly finds the minimum element from the unsorted sublist and swaps it with the element at the beginning of the unsorted sublist. This process continues until the entire list is sorted.
 
