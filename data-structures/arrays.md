@@ -1,4 +1,4 @@
-# Arraysa
+# Arrays
 
 An array is a data structure that stores a fixed-size sequence of elements of the same type. In Python, arrays can be created using the built-in `array` module. However, the more commonly used data structure for storing sequences of elements in Python is the `list`.
 
