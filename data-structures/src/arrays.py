@@ -15,20 +15,3 @@ print(my_array)  # Output: [1, 2, 3, 10, 5, 6]
 # Removing elements from the array
 my_array.remove(3)
 print(my_array)  # Output: [1, 2, 10, 5, 6]
-
-my_list = []  # Creating an empty list
-
-# Adding elements to the list
-my_list.append(1)
-my_list.append(2)
-my_list.append(3)
-print(my_list)  # Output: [1, 2, 3]
-
-# Adding more elements to the list
-my_list.append(4)
-my_list.append(5)
-print(my_list)  # Output: [1, 2, 3, 4, 5]
-
-# Removing elements from the list
-my_list.remove(3)
-print(my_list)  # Output: [1, 2, 4, 5]
