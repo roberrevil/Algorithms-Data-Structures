@@ -43,27 +43,4 @@ The algorithm uses a queue `queue` to store the vertices to be visited. It start
 
 Finally, the function returns the `visited` set containing all the vertices visited during the BFS traversal.
 
-To use this function and perform a BFS traversal, you can do the following:
-
-```python
-graph = {
-    'A': ['B', 'C'],
-    'B': ['A', 'D', 'E'],
-    'C': ['A', 'F'],
-    'D': ['B'],
-    'E': ['B', 'F'],
-    'F': ['C', 'E']
-}
-
-start_vertex = 'A'
-visited_vertices = bfs(graph, start_vertex)
-print(visited_vertices)
-```
-
-This will output the visited vertices in the order they were visited:
-
-```
-{'A', 'B', 'C', 'D', 'E', 'F'}
-```
-
 The time complexity of the BFS algorithm is O(V + E), where V is the number of vertices and E is the number of edges in the graph.

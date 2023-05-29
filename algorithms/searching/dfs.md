@@ -41,27 +41,4 @@ The algorithm uses a stack `stack` to store the vertices to be visited. It start
 
 Finally, the function returns the `visited` set containing all the vertices visited during the DFS traversal.
 
-To use this function and perform a DFS traversal, you can do the following:
-
-```python
-graph = {
-    'A': ['B', 'C'],
-    'B': ['A', 'D', 'E'],
-    'C': ['A', 'F'],
-    'D': ['B'],
-    'E': ['B', 'F'],
-    'F': ['C', 'E']
-}
-
-start_vertex = 'A'
-visited_vertices = dfs(graph, start_vertex)
-print(visited_vertices)
-```
-
-This will output the visited vertices in the order they were visited:
-
-```
-{'A', 'B', 'D', 'E', 'F', 'C'}
-```
-
 The time complexity of the DFS algorithm is O(V + E), where V is the number of vertices and E is the number of edges in the graph.
