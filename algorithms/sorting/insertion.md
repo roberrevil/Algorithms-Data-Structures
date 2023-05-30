@@ -1,4 +1,4 @@
-## Insertion Sort Algorithm
+# Insertion Sort Algorithm
 
 Insertion sort is a simple comparison-based sorting algorithm. It works by dividing the input into two parts: the sorted sublist and the unsorted sublist. The algorithm repeatedly takes an element from the unsorted sublist and inserts it into its correct position in the sorted sublist. This process continues until the entire list is sorted.
 
